@@ -1,6 +1,6 @@
 # Harvard CS50 Course
 
-![CS50 Logo](https://cs50.harvard.edu/x/2021/assets/favicon.ico)
+![CS50 Logo](https://pll.harvard.edu/sites/default/files/styles/social_share/public/course/CS50x_pll.png?itok=TCRhfLNB)
 
 This repository contains my solutions for the problem sets and projects of the [Harvard CS50 course](https://cs50.harvard.edu/x/2021/). CS50 is an introductory computer science course that covers a wide range of topics including:
 
